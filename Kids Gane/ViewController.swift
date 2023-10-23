@@ -17,7 +17,7 @@ class ViewController: UIViewController{
         playButton.layer.masksToBounds = true
     }
    
-    @IBAction func playButtonAction(_ sender: Any) {
+    @IBAction func playButtonAction(_ sender: UIButton) {
         
         let n = storyboard?.instantiateViewController(identifier:"SelectMode") as! SelectMode
         navigationController?.pushViewController(n, animated: true)

@@ -21,6 +21,7 @@
 		A677C8DD2A46AD7D003B3796 /* BirdPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A677C8DC2A46AD7D003B3796 /* BirdPage.swift */; };
 		A677C8DF2A46C0CB003B3796 /* ShapPage.swift in Sources */ = {isa = PBXBuildFile; fileRef = A677C8DE2A46C0CB003B3796 /* ShapPage.swift */; };
 		A677C8E12A46C155003B3796 /* CollectionViewCell9.swift in Sources */ = {isa = PBXBuildFile; fileRef = A677C8E02A46C155003B3796 /* CollectionViewCell9.swift */; };
+		A68772F22A5562570071B173 /* gujaratiVoice.swift in Sources */ = {isa = PBXBuildFile; fileRef = A68772F12A5562570071B173 /* gujaratiVoice.swift */; };
 		A6CF93CF2A40215F00153664 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CF93CE2A40215F00153664 /* AppDelegate.swift */; };
 		A6CF93D12A40215F00153664 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CF93D02A40215F00153664 /* SceneDelegate.swift */; };
 		A6CF93D32A40215F00153664 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6CF93D22A40215F00153664 /* ViewController.swift */; };
@@ -46,6 +47,7 @@
 		A677C8DC2A46AD7D003B3796 /* BirdPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BirdPage.swift; sourceTree = "<group>"; };
 		A677C8DE2A46C0CB003B3796 /* ShapPage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShapPage.swift; sourceTree = "<group>"; };
 		A677C8E02A46C155003B3796 /* CollectionViewCell9.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell9.swift; sourceTree = "<group>"; };
+		A68772F12A5562570071B173 /* gujaratiVoice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = gujaratiVoice.swift; sourceTree = "<group>"; };
 		A6CF93CB2A40215F00153664 /* Kids Gane.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Kids Gane.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6CF93CE2A40215F00153664 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A6CF93D02A40215F00153664 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -166,6 +168,7 @@
 				A693FEF02A4AB9DE00AB74D3 /* FruitPage */,
 				A693FEEF2A4AB9C200AB74D3 /* AnimalPage */,
 				A6CF93D42A40215F00153664 /* Main.storyboard */,
+				A68772F12A5562570071B173 /* gujaratiVoice.swift */,
 				A693FEF12A4AB9F100AB74D3 /* BirdPage */,
 				A693FEEB2A4AB91900AB74D3 /* SelectMode */,
 				A693FEF22A4ABA7800AB74D3 /* ShapPage */,
@@ -265,6 +268,7 @@
 				A623EF592A42DC9500B54E7B /* FruitPage.swift in Sources */,
 				A658F94E2A417FFB0044D503 /* CollectionViewCell2.swift in Sources */,
 				A6CF93CF2A40215F00153664 /* AppDelegate.swift in Sources */,
+				A68772F22A5562570071B173 /* gujaratiVoice.swift in Sources */,
 				A677C8DB2A46AD02003B3796 /* CollectionViewCell8.swift in Sources */,
 				A677C8DF2A46C0CB003B3796 /* ShapPage.swift in Sources */,
 				A658F9542A41888F0044D503 /* vegetablespage.swift in Sources */,

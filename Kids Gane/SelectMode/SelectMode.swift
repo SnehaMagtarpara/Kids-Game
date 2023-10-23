@@ -36,33 +36,23 @@ class SelectMode: UIViewController,UICollectionViewDelegate,UICollectionViewData
         return CGSize(width: 215, height: 236)
     }
     func collectionView(_ collectionView: UICollectionView, didSelectItemAt indexPath: IndexPath) {
-        if indexPath.row == 0
-        {
+        switch indexPath.row{
+        case 0:
             navigation()
-        }
-        else if indexPath.row == 1
-        {
+        case 1:
             navigation1()
-        }
-        else if indexPath.row == 2
-        {
+        case 2:
             navigation2()
-        }
-        else if indexPath.row == 3
-        {
-            navigation3()
-        }
-        else if indexPath.row == 4
-        {
+        case 3:
             navigation4()
-        }
-        else if indexPath.row == 5
-        {
+        case 4:
+            navigation4()
+        case 5:
             navigation5()
-        }
-        else
-        {
+        case 6:
             navigation6()
+        default:
+            break
         }
         
         
